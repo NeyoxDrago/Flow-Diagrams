@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T11:21:15.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oDPs4PVHnaJIUSv3aoJ0" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-30T12:06:20.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pFvBjn17SkHNF7e99wIl" version="24.3.1" type="github" pages="4">
   <diagram name="Complete" id="VDmkInQgDxEiEUcJwZt0">
     <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,7 +402,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LTJZ62hpNSIfkiR6SkJi" name="Page-4">
+  <diagram id="LTJZ62hpNSIfkiR6SkJi" name="KPI Operator">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -444,19 +444,82 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i-C_yOvj4gCyyuj8smxj-6" value="What is the attrition rate of India ?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-C_yOvj4gCyyuj8smxj-7" value="&lt;div&gt;KPI Operator&lt;/div&gt;Prompt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-C_yOvj4gCyyuj8smxj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="i-C_yOvj4gCyyuj8smxj-7" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="585" as="sourcePoint" />
-            <mxPoint x="590" y="585" as="targetPoint" />
+            <mxPoint x="525" y="586" as="sourcePoint" />
+            <mxPoint x="590" y="586" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-C_yOvj4gCyyuj8smxj-9" value="Extracted KPI operator" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-9" value="{&lt;div&gt;&#39;Operator&#39;:&#39;Direct&#39;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="556" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-10" target="i-C_yOvj4gCyyuj8smxj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-10" target="i-C_yOvj4gCyyuj8smxj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-10" target="i-C_yOvj4gCyyuj8smxj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-10" target="i-C_yOvj4gCyyuj8smxj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-10" value="Attrition Rate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-11" value="Rolling 12 months" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-14" value="Year to Date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-15" value="Year over Year" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-19" value="Direct" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-23" target="i-C_yOvj4gCyyuj8smxj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-23" value="What is the attrition rate of India ?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-24" value="&lt;div&gt;KPI Operator&lt;/div&gt;Prompt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="660" as="sourcePoint" />
+            <mxPoint x="590" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-26" value="{&lt;div&gt;&#39;Operator&#39;:&#39;Direct&#39;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-28" target="i-C_yOvj4gCyyuj8smxj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-28" value="What is the attrition rate of India ?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-29" value="&lt;div&gt;KPI Operator&lt;/div&gt;Prompt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="740" as="sourcePoint" />
+            <mxPoint x="590" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-31" value="{&lt;div&gt;&#39;Operator&#39;:&#39;Direct&#39;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
