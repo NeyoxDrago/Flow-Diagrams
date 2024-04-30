@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T09:49:46.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CbO85Xa8KCxDk3JmNIaA" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-30T11:21:15.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oDPs4PVHnaJIUSv3aoJ0" version="24.3.1" type="github" pages="4">
   <diagram name="Complete" id="VDmkInQgDxEiEUcJwZt0">
-    <mxGraphModel dx="2501" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pOMdyjoe9ijnXIdYbif0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" parent="1" source="pOMdyjoe9ijnXIdYbif0-59" target="pOMdyjoe9ijnXIdYbif0-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pOMdyjoe9ijnXIdYbif0-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=#9673a6;dashed=1;perimeterSpacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry y="140" width="830" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pOMdyjoe9ijnXIdYbif0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" parent="1" source="pOMdyjoe9ijnXIdYbif0-59" target="pOMdyjoe9ijnXIdYbif0-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="KPI Extraction Microservice" id="pOMdyjoe9ijnXIdYbif0-3">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=#9673a6;dashed=1;perimeterSpacing=0;shadow=0;" parent="1" vertex="1">
@@ -261,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XYc0j-mCzIn56ThSKTvm" name="KPI Extraction">
-    <mxGraphModel dx="2501" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,6 +398,65 @@
         </mxCell>
         <mxCell id="0bnm-WWBfVlgTxz5dhvm-35" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Prompt Creation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="680" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LTJZ62hpNSIfkiR6SkJi" name="Page-4">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nuyvD0rmMs51-Muy1Lj1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuyvD0rmMs51-Muy1Lj1-6" target="nuyvD0rmMs51-Muy1Lj1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuyvD0rmMs51-Muy1Lj1-6" value="Input" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuyvD0rmMs51-Muy1Lj1-7" value="&lt;div&gt;KPI Operator&lt;/div&gt;Prompt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuyvD0rmMs51-Muy1Lj1-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Extract KPIS from&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;query = {query}&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;these are some possible options&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;KPI1 = definition&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;KPI2 = definition&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;..&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;..&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Using the above information extraction KPIS from given query&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;query = {query}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Answer =&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="180" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="nuyvD0rmMs51-Muy1Lj1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nuyvD0rmMs51-Muy1Lj1-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="120" as="sourcePoint" />
+            <mxPoint x="620" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuyvD0rmMs51-Muy1Lj1-10" value="Extracted KPI operator" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=6.67;fillColor=none;strokeColor=#9673a6;dashed=1;perimeterSpacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i-C_yOvj4gCyyuj8smxj-2" target="i-C_yOvj4gCyyuj8smxj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-2" value="KPI Operator" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-3" value="&lt;div&gt;KPI - Operator Mapping&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="i-C_yOvj4gCyyuj8smxj-6" target="i-C_yOvj4gCyyuj8smxj-7" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-6" value="What is the attrition rate of India ?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-7" value="&lt;div&gt;KPI Operator&lt;/div&gt;Prompt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="i-C_yOvj4gCyyuj8smxj-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="585" as="sourcePoint" />
+            <mxPoint x="590" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-C_yOvj4gCyyuj8smxj-9" value="Extracted KPI operator" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
