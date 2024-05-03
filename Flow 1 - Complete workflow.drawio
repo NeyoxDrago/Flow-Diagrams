@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T12:42:15.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9ztM7yXdyo4eF161PHfr" version="24.3.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-03T11:37:27.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="g4mBsUKaa0M6K1tbKGAH" version="24.3.1" type="github" pages="6">
   <diagram name="Complete" id="VDmkInQgDxEiEUcJwZt0">
     <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -768,6 +768,142 @@
         </mxCell>
         <mxCell id="ZscNaypVVH65yBxdpkWd-28" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
           <mxGeometry x="70" y="470" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7PIViCJHu3CqgN8Ke3Kr" name="Page-6">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l-obo7dR_cxvou9hw9wT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-21" target="l-obo7dR_cxvou9hw9wT-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="630" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-1" target="l-obo7dR_cxvou9hw9wT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-1" target="l-obo7dR_cxvou9hw9wT-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="120" />
+              <mxPoint x="580" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-1" value="Business&lt;div&gt;Health&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-2" target="l-obo7dR_cxvou9hw9wT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-2" value="Business&lt;div&gt;Public Sector&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-3" target="l-obo7dR_cxvou9hw9wT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-3" value="Business&lt;div&gt;Risk&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-4" target="l-obo7dR_cxvou9hw9wT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-4" value="Business&lt;div&gt;Wealth&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-7" value="Sub Business&lt;div&gt;B&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-10" value="Sub Business&lt;div&gt;A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-11" target="l-obo7dR_cxvou9hw9wT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-11" value="Sub Business&lt;div&gt;Public Sector&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-12" value="Sub Sub Business&lt;div&gt;Public Sector&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-15" target="l-obo7dR_cxvou9hw9wT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-15" target="l-obo7dR_cxvou9hw9wT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-15" value="Business&lt;div&gt;Public Sector&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-17" target="l-obo7dR_cxvou9hw9wT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-17" value="Use this value for filtering data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-18" value="Answer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-23" target="l-obo7dR_cxvou9hw9wT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-23" value="which one you are looking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-26" target="l-obo7dR_cxvou9hw9wT-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-26" value="&lt;div&gt;Public Sector&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-30" value="Business" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-31" value="Sub Business" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-32" value="Sub Sub Business" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-35" target="l-obo7dR_cxvou9hw9wT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-35" value="&lt;div&gt;Associations&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-37" target="l-obo7dR_cxvou9hw9wT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-37" value="&lt;div&gt;Call Center&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-41" target="l-obo7dR_cxvou9hw9wT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-41" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;What is the turnove rat eof public sector segment ?&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="80" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l-obo7dR_cxvou9hw9wT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l-obo7dR_cxvou9hw9wT-41" target="l-obo7dR_cxvou9hw9wT-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
