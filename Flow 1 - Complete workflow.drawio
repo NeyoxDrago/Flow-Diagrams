@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T09:40:52.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eifdNPK8DaMdTMNmnPqw" version="24.3.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-05-08T13:03:33.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="D6mQHqrJbcwLCSwG-_aB" version="24.3.1" type="github" pages="9">
   <diagram name="Complete" id="VDmkInQgDxEiEUcJwZt0">
     <mxGraphModel dx="2062" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,7 +402,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H3UFuTxDAMYkI0k6wtgH" name="Dimension Extraction">
-    <mxGraphModel dx="7827" dy="3480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1005,6 +1005,121 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ReIhv6660I6pMNbkgGdp" name="Page-9">
+    <mxGraphModel dx="1909" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="780" width="320" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-2" target="WPA-CCokpEJA7Oir0GYQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-2" target="WPA-CCokpEJA7Oir0GYQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-2" target="WPA-CCokpEJA7Oir0GYQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-2" value="Data Source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-3" target="WPA-CCokpEJA7Oir0GYQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="140" />
+              <mxPoint x="760" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-3" value="Exits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-4" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-5" target="WPA-CCokpEJA7Oir0GYQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-5" target="WPA-CCokpEJA7Oir0GYQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-5" target="WPA-CCokpEJA7Oir0GYQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-5" target="WPA-CCokpEJA7Oir0GYQ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-5" value="Hires" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-6" target="WPA-CCokpEJA7Oir0GYQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="420" />
+              <mxPoint x="760" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-6" value="Off Cycle Increase" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-13" value="Exits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-14" target="WPA-CCokpEJA7Oir0GYQ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-14" value="Data Source&lt;div&gt;RC ID level historical Data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="810" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-17" target="WPA-CCokpEJA7Oir0GYQ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="842" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-17" target="WPA-CCokpEJA7Oir0GYQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-17" value="Forecasting for each RC ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="812" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-19" value="Output File" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="812" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-21" target="WPA-CCokpEJA7Oir0GYQ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-21" value="Individual RC ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-29" target="WPA-CCokpEJA7Oir0GYQ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-29" value="Outlier Detection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-31" value="Time Series Forecasting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-34" target="WPA-CCokpEJA7Oir0GYQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-34" value="Offers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPA-CCokpEJA7Oir0GYQ-38" target="WPA-CCokpEJA7Oir0GYQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPA-CCokpEJA7Oir0GYQ-38" value="Open Requisitions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
